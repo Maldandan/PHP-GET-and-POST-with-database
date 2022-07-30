@@ -151,7 +151,9 @@ since this provided html file is using the POST PHP file!
 ![Screenshot 2022-07-30 192001](https://user-images.githubusercontent.com/109004035/181928642-ffca19fd-2f16-4fa6-850b-299359bd6d53.jpg)
 
 To access your database table, click on the MySQL Admin Button!
+
 ![Screenshot 2022-07-30 193453](https://user-images.githubusercontent.com/109004035/181929893-8b660d59-4a69-40fe-907b-566adeb3c72d.jpg)
+
 ![Screenshot 2022-07-30 193607](https://user-images.githubusercontent.com/109004035/181930968-4718d003-3900-4619-a1d3-90fa50fe8030.jpg)
 
 
