@@ -91,7 +91,7 @@ button{
     text-align: center;
   }
 ```
-To correctly access the page, and for the GET to function, you should go to ' http://localhost/YOUR_FILE_NAME/index.php ' , replace YOUR_FILE_NAME with the name of your file where you saved your GET files!
+To correctly access the page, and for the GET to function, you should go to  http://localhost/YOUR_FILE_NAME/index.php  , replace YOUR_FILE_NAME with the name of your file where you saved your GET files!
 
 **Results**:
 
@@ -142,7 +142,7 @@ if($conn->connect_error){
 ```
 **For CSS Code**, I have used the same previous file from GET for same Styles!
 
-to access the POST page, similarly to the previous step, go to ` http://localhost/YOUR_FILE_NAME/index.html ` . Note that here the extension is html!
+to access the POST page, similarly to the previous step, go to  http://localhost/YOUR_FILE_NAME/index.html  . Note that here the extension is html!
 since this provided html file is using the POST PHP file!
 
 **Here are the Results:**
