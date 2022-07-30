@@ -148,9 +148,16 @@ since this provided html file is using the POST PHP file!
 **Here are the Results:**
 
 ![Screenshot 2022-07-30 191938](https://user-images.githubusercontent.com/109004035/181926026-0c9570a2-4085-4bab-9a80-8511468de1df.jpg)
+![Screenshot 2022-07-30 192001](https://user-images.githubusercontent.com/109004035/181928642-ffca19fd-2f16-4fa6-850b-299359bd6d53.jpg)
+
+To access your database table, click on the MySQL Admin Button!
+![Screenshot 2022-07-30 193453](https://user-images.githubusercontent.com/109004035/181929893-8b660d59-4a69-40fe-907b-566adeb3c72d.jpg)
+![Screenshot 2022-07-30 193607](https://user-images.githubusercontent.com/109004035/181930968-4718d003-3900-4619-a1d3-90fa50fe8030.jpg)
 
 
-![Screenshot 2022-07-30 192001](https://user-images.githubusercontent.com/109004035/181926007-07fd24e3-3e6e-481a-bccf-f6769b03cd26.jpg)
+
+
+
 
 
 
